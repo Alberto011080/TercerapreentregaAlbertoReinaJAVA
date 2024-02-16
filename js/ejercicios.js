@@ -78,6 +78,7 @@
 
 
 
+
 alert(`Hemos conseguido recuperar el dinero y tenemos algo interesante que contarte. Estaba todo lleno de hueyas y hemos visto que no diste el golpe tu sola como nos quieres hacer ver \n
 Estas son las personas que van a compartir celda contigo\n
 (mirar consola)`);
